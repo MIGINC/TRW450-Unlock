@@ -18,7 +18,7 @@ A Python tool to apply pre-made patches based on known file versions.
 ## Prerequisites
 
 - Python 3.6 or higher
-- pip (Python package installer)
+- pip 
 
 ## Usage
 
